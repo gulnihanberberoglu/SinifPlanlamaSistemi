@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1509360174 source:c:\users\gulnihan\desktop\sinif_planlama_sistemi\main.c
+	<stdio.h>
+	<stdlib.h>
+	<sys/time.h>
+	<string.h>
+
